@@ -13,6 +13,16 @@ h1{
   text-align: center;
   outline: none;
 }
+a{
+  margin: 50px auto 0;
+  width: 200px;
+  padding: 20px 40px;
+  border: none;
+  border-radius: 40px;
+  color: gray;
+  font-size: 16px;
+  text-align: center;
+}
 .dice {
   display: flex;
   flex-direction: column;
